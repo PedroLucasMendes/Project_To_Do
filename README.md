@@ -2,7 +2,7 @@
 
 ## 📋 Descrição
 
-O **To Do App** é uma aplicação simples e intuitiva desenvolvida em Flutter que ajuda você a gerenciar suas tarefas diárias. Com uma interface limpa e organizada, você pode adicionar, editar, e marcar tarefas como concluídas, mantendo-se produtivo ao longo do dia.
+O **To Do App** é uma aplicação simples e intuitiva desenvolvida em Flutter que ajuda você a gerenciar suas tarefas diárias. Com uma interface limpa e organizada, você pode adicionar e marcar tarefas como concluídas, mantendo-se produtivo ao longo do dia.
 
 
 ## ⚙️ Tecnologias Utilizadas
